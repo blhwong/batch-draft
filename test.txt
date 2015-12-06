@@ -1,0 +1,32 @@
+D,O,AC,Client,MO,Amount,CC #,Exp. Date,Zip,Name on CC,Sales Rep,Payment Status,Method,Workflow Status
+D,O,AC,Amanda Malanowski,MO,12250,1111111111111111,0417,25701,Amanda Malanowski,Darryle Hughes,Pending,Credit Card,Submit to Processing==>
+D,O,AC,Ishamina Mason,MO,12250,1111111111111111,1217,90008,Isamina Mason,Jim Slawson,Pending,Debit Card,Submit to Processing==>
+D,O,AC,Sierra Pierce,MO,12250,1111111111111111,0316,43201,Sierra Pierce,Mike Bonolis,Pending,Debit Card,Submit to Processing==>
+D,O,AC,Stephanie Searles,MO,9750,1111111111111111,,,,Marukh Hall,Pending,Credit Card,Submit to Processing==>
+D,O,AC,Angela Thornton,MO,10000,1111111111111111,0817,77047,Angela Thorton,Lawrence Teodoro,Pending,Credit Card,Submit to Processing==>
+D,O,AC,Bill Laney,MO,12250,1111111111111111,1118,72764,WILLIAM LANEY,Rick Garcia,Pending,Debit Card,Processing Approved
+D,O,AC,ERICK LAYTON,MO,9800,1111111111111111,0916,49444,ERICK LAYTON,Lawrence Teodoro,Pending,Credit Card,Processing Approved
+D,O,AC,Matt Teske,MO,16333,1111111111111111,1116,50211,Matthew J Teske,Jim Slawson,Pending,Debit Card,Processing Approved
+D,O,AC,RACHEL Abel,MO,12250,1111111111111111,1117,78362,RACHEL ABLE,Lawrence Teodoro,Paid,Credit Card,Processing Approved
+D,O,AC,Tameka Vaughn,MO,3900,1111111111111111,1016,,Tameka Vaughn,Melani Scott,Pending,Debit Card,Recur. Maint. Fee Added
+D,O,AC,AMBER MURRAY,MO,12250,1111111111111111,0616,36571,,Lawrence Teodoro,Pending,Credit Card,Submit to Processing==>
+D,O,AC,Brooke Sparks,MO,8167,1111111111111111,1115,45503,Brooke Sparks,Jim Slawson,Pending,Debit Card,Submit to Processing==>
+D,O,AC,Karen Walker,MO,29667,1111111111111111,1115,45044,Karen Walker,Mike Bonolis,Pending,Debit Card,Processing Approved
+D,O,AC,KEESHAUN GUERRERO,MO,12250,1111111111111111,0117,92404,KEESHAUN GUERRERO,Lawrence Teodoro,Pending,Credit Card,Processing Approved
+D,O,AC,kevia howard,MO,12250,1111111111111111,1018,70049,kevia howard,Eric Ariola,Pending,Credit Card,Submit to Processing==>
+D,O,AC,krystal white,MO,12250,1111111111111111,,,,Eric Ariola,Processing,Bank Draft,Processing Approved
+D,O,AC,Leroy Porter,MO,9800,1111111111111111,0617,34234,Leroy Porter,Lawrence Teodoro,Pending,Credit Card,Submit to Processing==>
+D,O,AC,Luis Aguilar,MO,12250,1111111111111111,0917,94087,Luis Aguilar,Lawrence Teodoro,Pending,Credit Card,Processing Approved
+D,O,AC,MARIE SERRANO,MO,9800,1111111111111111,0717,40229,MARIE SERRANO,Lawrence Teodoro,Pending,Credit Card,Processing Approved
+D,O,AC,Nelda Rivera,MO,23000,1111111111111111,0717,78520,Nelda Rivera,Melani Scott,Pending,Debit Card,Processing Approved
+D,O,AC,Nicoya blackmon,MO,12250,1111111111111111,0717,14605,Nicoya Blackmon,Eric Ariola,Pending,Credit Card,Submit to Processing==>
+D,O,AC,RUBEN SURILLO,MO,13800,1111111111111111,0518,19111,RUBEN SURILLO,Rick Garcia,Pending,Debit Card,Processing Approved
+D,O,AC,Casie Sterbanz,MO,8091,1111111111111111,1017,48655,Casie Sterbanz,Mike Bonolis,Pending,Debit Card,Submit to Processing==>
+D,O,AC,JONI WILLIAMS,MO,3900,1111111111111111,1217,07514,JONI WILLIAMS,Rick Garcia,Pending,Debit Card,Recur. Maint. Fee Added
+D,O,AC,Marella Walker,MO,9750,1111111111111111,0717,48503,Marella Walker,Rick Garcia,Pending,Debit Card,Processing Approved
+D,O,AC,Rachel Frantz,MO,9750,1111111111111111,0117,44310,Rachel Frantz,Mike Bonolis,Pending,Debit Card,Processing Approved
+D,O,AC,JENNIFER SHAW,MO,3900,1111111111111111,0118,92109,Jennifer L Shaw,Melani Scott,Pending,Debit Card,Recur. Maint. Fee Added
+D,O,AC,Michelle Ray,MO,3900,1111111111111111,0717,,Michelle M Ray,Melani Scott,Pending,Debit Card,Recur. Maint. Fee Added
+D,O,AC,Chris Worms,MO,4900,1111111111111111,,,,Jim Slawson,Processing,Bank Draft,Recur. Maint. Fee Added
+D,O,AC,TYLER FISHBURN,MO,4900,1111111111111111,,,Tyler Fishburn,Rick Garcia,Processing,Bank Draft,Recur. Maint. Fee Added
+D,O,AC,Kathy Grimes,MO,3900,1111111111111111,,,,Melani Scott,Processing,Bank Draft,Recur. Maint. Fee Added
